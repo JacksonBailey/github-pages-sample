@@ -1,0 +1,7 @@
+# If these are missing (empty strings are not missing) then the build will fail
+# because it resorts to using the jekyll-github-metadata plugin.
+title: "" # site's title, anything
+description: "" # site's descriptionm anything
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # hostname & protocol for your site, e.g. http://example.com
+github: "" # username/repo pair, e.g., linus/linux
